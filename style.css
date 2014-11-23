@@ -116,7 +116,6 @@ body, html {
   margin-bottom: 56px;
   position: relative;
   top: -8px;
-  margin-left: 20px;
 }
 
 #etappe #etappe_speed{
@@ -163,7 +162,6 @@ body, html {
   margin-bottom: 56px;
   position: relative;
   left: -9px;
-  margin-left: 34px;
 }
 #etappe #speedgrid_legend{
   position: absolute;
